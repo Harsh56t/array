@@ -17,7 +17,7 @@ public class cand{
         System.out.println("Enter 12 to find perimeter of circle");
         System.out.println("Enter 13 to find perimeter of triangle");
         System.out.println("Enter 14 to find area of trapezium");
-         System.out.println("Enter 15 to find area of trapezium");
+         System.out.println("Enter 15 to find perimeter of trapezium");
         int choice=sc.nextInt();
         switch (choice)
           { case 1:
